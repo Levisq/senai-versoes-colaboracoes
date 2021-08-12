@@ -16,12 +16,12 @@ git remote add origin "link do repositório no github"- linkar o local e o remot
 
 git remote -v visualizar repositório atual/
 
-git push -u origin master - publicar do local para o remoto/
+git push  - publicar do local para o remoto/
 
 git pull - baixa as alterações do remoto para o local/
 
-git checkout -b "nome da nova branch" - com o -b criamos uma nova branch
+git checkout -b "nome da nova branch" - com o -b criamos uma nova branch/
 
-git merge "nome da branch"/ mesclar branchs
+git merge "nome da branch" - mesclar branchs/
 
  
